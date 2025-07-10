@@ -10,7 +10,7 @@
 - [x] Singleton Pattern
 - [x] Thread-safe Singleton Pattern
 - [x] Factory Pattern
-- [ ] Builder Pattern
+- [x] Builder Pattern
 
 ✅ **Structural Patterns:**
 - [ ] Adapter Pattern
