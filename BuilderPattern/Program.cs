@@ -7,3 +7,12 @@ var user = new UserBuilder()
            .Build();
 
 Console.WriteLine($"{user.Name}, {user.Age}, {user.Email}");
+
+var query = new SqlQueryBuilder()
+            .Select("Name, Age")
+            .From("Users")
+            .Where("IsActive = 1")
+            .OrderBy("CreatedDate DESC")
+            .Build();
+
+Console.WriteLine(query);
