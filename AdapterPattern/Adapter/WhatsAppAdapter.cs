@@ -1,6 +1,6 @@
-﻿using AdapterPattern.Adapter;
+﻿using AdapterPattern.NewService;
 
-namespace AdapterPattern.NewService;
+namespace AdapterPattern.Adapter;
 
 public class WhatsAppAdapter : INotification
 {

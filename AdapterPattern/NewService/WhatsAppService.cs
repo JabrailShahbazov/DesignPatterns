@@ -1,4 +1,4 @@
-﻿namespace AdapterPattern.Adapter;
+﻿namespace AdapterPattern.NewService;
 
 public class WhatsAppService
 {
