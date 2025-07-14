@@ -14,7 +14,7 @@
 
 ✅ **Structural Patterns:**
 - [x] Adapter Pattern
-- [ ] Decorator Pattern
+- [x] Decorator Pattern
 - [ ] Facade Pattern
 
 ✅ **Behavioral Patterns:**
