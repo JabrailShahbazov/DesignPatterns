@@ -13,7 +13,7 @@
 - [x] Builder Pattern
 
 ✅ **Structural Patterns:**
-- [ ] Adapter Pattern
+- [x] Adapter Pattern
 - [ ] Decorator Pattern
 - [ ] Facade Pattern
 

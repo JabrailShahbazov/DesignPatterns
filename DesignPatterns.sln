@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryPattern", "FactoryPa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderPattern", "BuilderPattern\BuilderPattern.csproj", "{F2F15BD3-31E4-4FC1-ABE7-242395BABEE1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterPattern", "AdapterPattern\AdapterPattern.csproj", "{AB528430-A0E1-4C06-9D1F-37EE71F9DC7D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{F2F15BD3-31E4-4FC1-ABE7-242395BABEE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2F15BD3-31E4-4FC1-ABE7-242395BABEE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2F15BD3-31E4-4FC1-ABE7-242395BABEE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB528430-A0E1-4C06-9D1F-37EE71F9DC7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB528430-A0E1-4C06-9D1F-37EE71F9DC7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB528430-A0E1-4C06-9D1F-37EE71F9DC7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB528430-A0E1-4C06-9D1F-37EE71F9DC7D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
