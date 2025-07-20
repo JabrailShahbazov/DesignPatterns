@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyPattern", "Strategy
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverPattern", "ObserverPattern\ObserverPattern.csproj", "{ED104C9B-8724-4B27-B0CD-6C38BA91D23B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandPattern", "CommandPattern\CommandPattern.csproj", "{174EB0E7-9940-4FF0-A55E-22241BCF316B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{ED104C9B-8724-4B27-B0CD-6C38BA91D23B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED104C9B-8724-4B27-B0CD-6C38BA91D23B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED104C9B-8724-4B27-B0CD-6C38BA91D23B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{174EB0E7-9940-4FF0-A55E-22241BCF316B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{174EB0E7-9940-4FF0-A55E-22241BCF316B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{174EB0E7-9940-4FF0-A55E-22241BCF316B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{174EB0E7-9940-4FF0-A55E-22241BCF316B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

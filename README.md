@@ -15,12 +15,12 @@
 ✅ **Structural Patterns:**
 - [x] Adapter Pattern
 - [x] Decorator Pattern
-- [ ] Facade Pattern
+- [x] Facade Pattern
 
 ✅ **Behavioral Patterns:**
-- [ ] Strategy Pattern
-- [ ] Observer Pattern
-- [ ] Command Pattern
+- [x] Strategy Pattern
+- [x] Observer Pattern
+- [x] Command Pattern
 
 🔹 Digər pattern-lər izləyici marağına görə mərhələli əlavə ediləcək.
 
